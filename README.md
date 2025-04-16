@@ -81,8 +81,5 @@ The application uses:
 - Jurisdiction-specific legal frameworks
 - Collaborative mode for multiple users
 
-## License
-[MIT License]
-
 ## Disclaimer
 This tool provides automated legal analysis for educational purposes only. It is not a substitute for professional legal advice. The predictions and analyses generated should not be used for making actual legal decisions.
